@@ -1,0 +1,4928 @@
+{
+  "baseTemperature": 8.66,
+  "monthlyVariance": [
+
+   
+
+    {
+      "year": 1901,
+      "month": 1,
+      "variance": 472
+    },
+    {
+      "year": 1901,
+      "month": 2,
+      "variance": 561
+    },
+    {
+      "year": 1901,
+      "month": 3,
+      "variance": 596
+    },
+    {
+      "year": 1901,
+      "month": 4,
+      "variance": 631
+    },
+    {
+      "year": 1901,
+      "month": 5,
+      "variance": 602
+    },
+    {
+      "year": 1901,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1901,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1901,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1901,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1901,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1901,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1901,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1902,
+      "month": 1,
+      "variance": 19
+    },
+    {
+      "year": 1902,
+      "month": 2,
+      "variance": 8
+    },
+    {
+      "year": 1902,
+      "month": 3,
+      "variance": 13
+    },
+    {
+      "year": 1902,
+      "month": 4,
+      "variance": 9
+    },
+    {
+      "year": 1902,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1902,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1902,
+      "month": 7,
+      "variance": 5
+    },
+    {
+      "year": 1902,
+      "month": 8,
+      "variance": 4
+    },
+    {
+      "year": 1902,
+      "month": 9,
+      "variance": 14
+    },
+    {
+      "year": 1902,
+      "month": 10,
+      "variance": 10
+    },
+    {
+      "year": 1902,
+      "month": 11,
+      "variance": 8
+    },
+    {
+      "year": 1902,
+      "month": 12,
+      "variance": 9
+    },
+    {
+      "year": 1903,
+      "month": 1,
+      "variance": 2
+    },
+    {
+      "year": 1903,
+      "month": 2,
+      "variance": 2
+    },
+    {
+      "year": 1903,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1903,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1903,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1903,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1903,
+      "month": 7,
+      "variance": 4
+    },
+    {
+      "year": 1903,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1903,
+      "month": 9,
+      "variance": 4
+    },
+    {
+      "year": 1903,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1903,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1903,
+      "month": 12,
+      "variance": 7
+    },
+    {
+      "year": 1904,
+      "month": 1,
+      "variance": 4
+    },
+    {
+      "year": 1904,
+      "month": 2,
+      "variance": 4
+    },
+    {
+      "year": 1904,
+      "month": 3,
+      "variance": 2
+    },
+    {
+      "year": 1904,
+      "month": 4,
+      "variance": 2
+    },
+    {
+      "year": 1904,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1904,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1904,
+      "month": 7,
+      "variance": 5
+    },
+    {
+      "year": 1904,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1904,
+      "month": 9,
+      "variance": 7
+    },
+    {
+      "year": 1904,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1904,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1904,
+      "month": 12,
+      "variance": 8
+    },
+    {
+      "year": 1905,
+      "month": 1,
+      "variance": 12
+    },
+    {
+      "year": 1905,
+      "month": 2,
+      "variance": 9
+    },
+    {
+      "year": 1905,
+      "month": 3,
+      "variance": 6
+    },
+    {
+      "year": 1905,
+      "month": 4,
+      "variance": 6
+    },
+    {
+      "year": 1905,
+      "month": 5,
+      "variance": 6
+    },
+    {
+      "year": 1905,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1905,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1905,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1905,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1905,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1905,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1905,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1906,
+      "month": 1,
+      "variance": 1
+    },
+    {
+      "year": 1906,
+      "month": 2,
+      "variance": 2
+    },
+    {
+      "year": 1906,
+      "month": 3,
+      "variance": 2
+    },
+    {
+      "year": 1906,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1906,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1906,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1906,
+      "month": 7,
+      "variance": 4
+    },
+    {
+      "year": 1906,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1906,
+      "month": 9,
+      "variance": 6
+    },
+    {
+      "year": 1906,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1906,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1906,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1907,
+      "month": 1,
+      "variance": 11
+    },
+    {
+      "year": 1907,
+      "month": 2,
+      "variance": 7
+    },
+    {
+      "year": 1907,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1907,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1908,
+      "month": 1,
+      "variance": 11
+    },
+    {
+      "year": 1908,
+      "month": 2,
+      "variance": 11
+    },
+    {
+      "year": 1908,
+      "month": 3,
+      "variance": 10
+    },
+    {
+      "year": 1908,
+      "month": 4,
+      "variance": 7
+    },
+    {
+      "year": 1908,
+      "month": 5,
+      "variance": 7
+    },
+    {
+      "year": 1908,
+      "month": 6,
+      "variance": 6
+    },
+    {
+      "year": 1908,
+      "month": 7,
+      "variance": 6
+    },
+    {
+      "year": 1908,
+      "month": 8,
+      "variance": 6
+    },
+    {
+      "year": 1908,
+      "month": 9,
+      "variance": 3
+    },
+    {
+      "year": 1908,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1908,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1908,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1909,
+      "month": 1,
+      "variance": 37
+    },
+    {
+      "year": 1909,
+      "month": 2,
+      "variance": 16
+    },
+    {
+      "year": 1909,
+      "month": 3,
+      "variance": 42
+    },
+    {
+      "year": 1909,
+      "month": 4,
+      "variance": 10
+    },
+    {
+      "year": 1909,
+      "month": 5,
+      "variance": 37
+    },
+    {
+      "year": 1909,
+      "month": 6,
+      "variance": 35
+    },
+    {
+      "year": 1909,
+      "month": 7,
+      "variance": 35
+    },
+    {
+      "year": 1909,
+      "month": 8,
+      "variance": 68
+    },
+    {
+      "year": 1909,
+      "month": 9,
+      "variance": 50
+    },
+    {
+      "year": 1909,
+      "month": 10,
+      "variance": 47
+    },
+    {
+      "year": 1909,
+      "month": 11,
+      "variance": 25
+    },
+    {
+      "year": 1909,
+      "month": 12,
+      "variance": 17
+    },
+    {
+      "year": 1910,
+      "month": 1,
+      "variance": 31
+    },
+    {
+      "year": 1910,
+      "month": 2,
+      "variance": 31
+    },
+    {
+      "year": 1910,
+      "month": 3,
+      "variance": 10
+    },
+    {
+      "year": 1910,
+      "month": 4,
+      "variance": 40
+    },
+    {
+      "year": 1910,
+      "month": 5,
+      "variance": 36
+    },
+    {
+      "year": 1910,
+      "month": 6,
+      "variance": 36
+    },
+    {
+      "year": 1910,
+      "month": 7,
+      "variance": 36
+    },
+    {
+      "year": 1910,
+      "month": 8,
+      "variance": 31
+    },
+    {
+      "year": 1910,
+      "month": 9,
+      "variance": 11
+    },
+    {
+      "year": 1910,
+      "month": 10,
+      "variance": 19
+    },
+    {
+      "year": 1910,
+      "month": 11,
+      "variance": 13
+    },
+    {
+      "year": 1910,
+      "month": 12,
+      "variance": 15
+    },
+    {
+      "year": 1911,
+      "month": 1,
+      "variance": 22
+    },
+    {
+      "year": 1911,
+      "month": 2,
+      "variance": 28
+    },
+    {
+      "year": 1911,
+      "month": 3,
+      "variance": 18
+    },
+    {
+      "year": 1911,
+      "month": 4,
+      "variance": 16
+    },
+    {
+      "year": 1911,
+      "month": 5,
+      "variance": 15
+    },
+    {
+      "year": 1911,
+      "month": 6,
+      "variance": 12
+    },
+    {
+      "year": 1911,
+      "month": 7,
+      "variance": 11
+    },
+    {
+      "year": 1911,
+      "month": 8,
+      "variance": 13
+    },
+    {
+      "year": 1911,
+      "month": 9,
+      "variance": 9
+    },
+    {
+      "year": 1911,
+      "month": 10,
+      "variance": 6
+    },
+    {
+      "year": 1911,
+      "month": 11,
+      "variance": 12
+    },
+    {
+      "year": 1911,
+      "month": 12,
+      "variance": 8
+    },
+    {
+      "year": 1912,
+      "month": 1,
+      "variance": 48
+    },
+    {
+      "year": 1912,
+      "month": 2,
+      "variance": 59
+    },
+    {
+      "year": 1912,
+      "month": 3,
+      "variance": 23
+    },
+    {
+      "year": 1912,
+      "month": 4,
+      "variance": 15
+    },
+    {
+      "year": 1912,
+      "month": 5,
+      "variance": 22
+    },
+    {
+      "year": 1912,
+      "month": 6,
+      "variance": 19
+    },
+    {
+      "year": 1912,
+      "month": 7,
+      "variance": 26
+    },
+    {
+      "year": 1912,
+      "month": 8,
+      "variance": 17
+    },
+    {
+      "year": 1912,
+      "month": 9,
+      "variance": 20
+    },
+    {
+      "year": 1912,
+      "month": 10,
+      "variance": 5
+    },
+    {
+      "year": 1912,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1912,
+      "month": 12,
+      "variance": 5
+    },
+    {
+      "year": 1913,
+      "month": 1,
+      "variance": 25
+    },
+    {
+      "year": 1913,
+      "month": 2,
+      "variance": 22
+    },
+    {
+      "year": 1913,
+      "month": 3,
+      "variance": 23
+    },
+    {
+      "year": 1913,
+      "month": 4,
+      "variance": 13
+    },
+    {
+      "year": 1913,
+      "month": 5,
+      "variance": 11
+    },
+    {
+      "year": 1913,
+      "month": 6,
+      "variance": 11
+    },
+    {
+      "year": 1913,
+      "month": 7,
+      "variance": 7
+    },
+    {
+      "year": 1913,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1913,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1913,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1913,
+      "month": 11,
+      "variance": 2
+    },
+    {
+      "year": 1913,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1914,
+      "month": 1,
+      "variance": 13
+    },
+    {
+      "year": 1914,
+      "month": 2,
+      "variance": 11
+    },
+    {
+      "year": 1914,
+      "month": 3,
+      "variance": 5
+    },
+    {
+      "year": 1914,
+      "month": 4,
+      "variance": 2
+    },
+    {
+      "year": 1914,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1914,
+      "month": 6,
+      "variance": 8
+    },
+    {
+      "year": 1914,
+      "month": 7,
+      "variance": 5
+    },
+    {
+      "year": 1914,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1914,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1914,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1914,
+      "month": 11,
+      "variance": 4
+    },
+    {
+      "year": 1914,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1915,
+      "month": 1,
+      "variance": 4
+    },
+    {
+      "year": 1915,
+      "month": 2,
+      "variance": 2
+    },
+    {
+      "year": 1915,
+      "month": 3,
+      "variance": 4
+    },
+    {
+      "year": 1915,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1915,
+      "month": 5,
+      "variance": 9
+    },
+    {
+      "year": 1915,
+      "month": 6,
+      "variance": 7
+    },
+    {
+      "year": 1915,
+      "month": 7,
+      "variance": 6
+    },
+    {
+      "year": 1915,
+      "month": 8,
+      "variance": 4
+    },
+    {
+      "year": 1915,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1915,
+      "month": 10,
+      "variance": 1
+    },
+    {
+      "year": 1915,
+      "month": 11,
+      "variance": 2
+    },
+    {
+      "year": 1915,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1916,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1916,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 10,
+      "variance": 1
+    },
+    {
+      "year": 1916,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1916,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1917,
+      "month": 1,
+      "variance": 12
+    },
+    {
+      "year": 1917,
+      "month": 2,
+      "variance": 13
+    },
+    {
+      "year": 1917,
+      "month": 3,
+      "variance": 11
+    },
+    {
+      "year": 1917,
+      "month": 4,
+      "variance": 11
+    },
+    {
+      "year": 1917,
+      "month": 5,
+      "variance": 11
+    },
+    {
+      "year": 1917,
+      "month": 6,
+      "variance": 11
+    },
+    {
+      "year": 1917,
+      "month": 7,
+      "variance": 9
+    },
+    {
+      "year": 1917,
+      "month": 8,
+      "variance": 11
+    },
+    {
+      "year": 1917,
+      "month": 9,
+      "variance": 7
+    },
+    {
+      "year": 1917,
+      "month": 10,
+      "variance": 5
+    },
+    {
+      "year": 1917,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1917,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 1,
+      "variance": 11
+    },
+    {
+      "year": 1918,
+      "month": 2,
+      "variance": 12
+    },
+    {
+      "year": 1918,
+      "month": 3,
+      "variance": 8
+    },
+    {
+      "year": 1918,
+      "month": 4,
+      "variance": 7
+    },
+    {
+      "year": 1918,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1918,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1918,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1919,
+      "month": 1,
+      "variance": 10
+    },
+    {
+      "year": 1919,
+      "month": 2,
+      "variance": 9
+    },
+    {
+      "year": 1919,
+      "month": 3,
+      "variance": 6
+    },
+    {
+      "year": 1919,
+      "month": 4,
+      "variance": 6
+    },
+    {
+      "year": 1919,
+      "month": 5,
+      "variance": 3
+    },
+    {
+      "year": 1919,
+      "month": 6,
+      "variance": 6
+    },
+    {
+      "year": 1919,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1919,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1919,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1919,
+      "month": 10,
+      "variance": 7
+    },
+    {
+      "year": 1919,
+      "month": 11,
+      "variance": 5
+    },
+    {
+      "year": 1919,
+      "month": 12,
+      "variance": 4
+    },
+    {
+      "year": 1920,
+      "month": 1,
+      "variance": 25
+    },
+    {
+      "year": 1920,
+      "month": 2,
+      "variance": 24
+    },
+    {
+      "year": 1920,
+      "month": 3,
+      "variance": 6
+    },
+    {
+      "year": 1920,
+      "month": 4,
+      "variance": 13
+    },
+    {
+      "year": 1920,
+      "month": 5,
+      "variance": 11
+    },
+    {
+      "year": 1920,
+      "month": 6,
+      "variance": 22
+    },
+    {
+      "year": 1920,
+      "month": 7,
+      "variance": 31
+    },
+    {
+      "year": 1920,
+      "month": 8,
+      "variance": 5
+    },
+    {
+      "year": 1920,
+      "month": 9,
+      "variance": 11
+    },
+    {
+      "year": 1920,
+      "month": 10,
+      "variance": 13
+    },
+    {
+      "year": 1920,
+      "month": 11,
+      "variance": 17
+    },
+    {
+      "year": 1920,
+      "month": 12,
+      "variance": 11
+    },
+    {
+      "year": 1921,
+      "month": 1,
+      "variance": 10
+    },
+    {
+      "year": 1921,
+      "month": 2,
+      "variance": 10
+    },
+    {
+      "year": 1921,
+      "month": 3,
+      "variance": 7
+    },
+    {
+      "year": 1921,
+      "month": 4,
+      "variance": 8
+    },
+    {
+      "year": 1921,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1921,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1921,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1921,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1921,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1921,
+      "month": 10,
+      "variance": 5
+    },
+    {
+      "year": 1921,
+      "month": 11,
+      "variance": 4
+    },
+    {
+      "year": 1921,
+      "month": 12,
+      "variance": 3
+    },
+    {
+      "year": 1922,
+      "month": 1,
+      "variance": 48
+    },
+    {
+      "year": 1922,
+      "month": 2,
+      "variance": 67
+    },
+    {
+      "year": 1922,
+      "month": 3,
+      "variance": 29
+    },
+    {
+      "year": 1922,
+      "month": 4,
+      "variance": 43
+    },
+    {
+      "year": 1922,
+      "month": 5,
+      "variance": 29
+    },
+    {
+      "year": 1922,
+      "month": 6,
+      "variance": 27
+    },
+    {
+      "year": 1922,
+      "month": 7,
+      "variance": 15
+    },
+    {
+      "year": 1922,
+      "month": 8,
+      "variance": 7
+    },
+    {
+      "year": 1922,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1922,
+      "month": 10,
+      "variance": 5
+    },
+    {
+      "year": 1922,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1922,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 1,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 2,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 3,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1923,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1923,
+      "month": 10,
+      "variance": 1
+    },
+    {
+      "year": 1923,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1923,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1924,
+      "month": 1,
+      "variance": 169
+    },
+    {
+      "year": 1924,
+      "month": 2,
+      "variance": 184
+    },
+    {
+      "year": 1924,
+      "month": 3,
+      "variance": 131
+    },
+    {
+      "year": 1924,
+      "month": 4,
+      "variance": 68
+    },
+    {
+      "year": 1924,
+      "month": 5,
+      "variance": 70
+    },
+    {
+      "year": 1924,
+      "month": 6,
+      "variance": 57
+    },
+    {
+      "year": 1924,
+      "month": 7,
+      "variance": 6
+    },
+    {
+      "year": 1924,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1924,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1924,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1924,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1924,
+      "month": 12,
+      "variance": 3
+    },
+    {
+      "year": 1925,
+      "month": 1,
+      "variance": 12
+    },
+    {
+      "year": 1925,
+      "month": 2,
+      "variance": 11
+    },
+    {
+      "year": 1925,
+      "month": 3,
+      "variance": 17
+    },
+    {
+      "year": 1925,
+      "month": 4,
+      "variance": 9
+    },
+    {
+      "year": 1925,
+      "month": 5,
+      "variance": 7
+    },
+    {
+      "year": 1925,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1925,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1925,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1925,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1925,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1925,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1925,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1926,
+      "month": 1,
+      "variance": 10
+    },
+    {
+      "year": 1926,
+      "month": 2,
+      "variance": 8
+    },
+    {
+      "year": 1926,
+      "month": 3,
+      "variance": 5
+    },
+    {
+      "year": 1926,
+      "month": 4,
+      "variance": 7
+    },
+    {
+      "year": 1926,
+      "month": 5,
+      "variance": 5
+    },
+    {
+      "year": 1926,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1926,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1926,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1926,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1926,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1926,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1926,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1927,
+      "month": 1,
+      "variance": 9
+    },
+    {
+      "year": 1927,
+      "month": 2,
+      "variance": 9
+    },
+    {
+      "year": 1927,
+      "month": 3,
+      "variance": 6
+    },
+    {
+      "year": 1927,
+      "month": 4,
+      "variance": 9
+    },
+    {
+      "year": 1927,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1927,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1927,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1927,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1927,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1927,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1927,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1927,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 1,
+      "variance": 7
+    },
+    {
+      "year": 1928,
+      "month": 2,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 3,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 10,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1928,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1929,
+      "month": 1,
+      "variance": 2
+    },
+    {
+      "year": 1929,
+      "month": 2,
+      "variance": 2
+    },
+    {
+      "year": 1929,
+      "month": 3,
+      "variance": 2
+    },
+    {
+      "year": 1929,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1929,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1929,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1929,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1929,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1929,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1929,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1929,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1929,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1930,
+      "month": 1,
+      "variance": 9
+    },
+    {
+      "year": 1930,
+      "month": 2,
+      "variance": 9
+    },
+    {
+      "year": 1930,
+      "month": 3,
+      "variance": 7
+    },
+    {
+      "year": 1930,
+      "month": 4,
+      "variance": 9
+    },
+    {
+      "year": 1930,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1930,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1930,
+      "month": 7,
+      "variance": 3
+    },
+    {
+      "year": 1930,
+      "month": 8,
+      "variance": 3
+    },
+    {
+      "year": 1930,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1930,
+      "month": 10,
+      "variance": 5
+    },
+    {
+      "year": 1930,
+      "month": 11,
+      "variance": 8
+    },
+    {
+      "year": 1930,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1931,
+      "month": 1,
+      "variance": 5
+    },
+    {
+      "year": 1931,
+      "month": 2,
+      "variance": 4
+    },
+    {
+      "year": 1931,
+      "month": 3,
+      "variance": 1
+    },
+    {
+      "year": 1931,
+      "month": 4,
+      "variance": 6
+    },
+    {
+      "year": 1931,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1931,
+      "month": 6,
+      "variance": 13
+    },
+    {
+      "year": 1931,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1931,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1931,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1931,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1931,
+      "month": 11,
+      "variance": 4
+    },
+    {
+      "year": 1931,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1932,
+      "month": 1,
+      "variance": 1
+    },
+    {
+      "year": 1932,
+      "month": 2,
+      "variance": 2
+    },
+    {
+      "year": 1932,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1932,
+      "month": 4,
+      "variance": 2
+    },
+    {
+      "year": 1932,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1932,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1932,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1932,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1932,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1932,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1932,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1932,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1933,
+      "month": 1,
+      "variance": 2
+    },
+    {
+      "year": 1933,
+      "month": 2,
+      "variance": 1
+    },
+    {
+      "year": 1933,
+      "month": 3,
+      "variance": 1
+    },
+    {
+      "year": 1933,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1933,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1933,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1933,
+      "month": 7,
+      "variance": 4
+    },
+    {
+      "year": 1933,
+      "month": 8,
+      "variance": 4
+    },
+    {
+      "year": 1933,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1933,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1933,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1933,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1934,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1934,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1934,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1934,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1934,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1934,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1934,
+      "month": 7,
+      "variance": 1
+    },
+    {
+      "year": 1934,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1934,
+      "month": 9,
+      "variance": 4
+    },
+    {
+      "year": 1934,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1934,
+      "month": 11,
+      "variance": 4
+    },
+    {
+      "year": 1934,
+      "month": 12,
+      "variance": 19
+    },
+    {
+      "year": 1935,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1935,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1935,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1935,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1935,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1935,
+      "month": 6,
+      "variance": 4
+    },
+    {
+      "year": 1935,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1935,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1935,
+      "month": 9,
+      "variance": 5
+    },
+    {
+      "year": 1935,
+      "month": 10,
+      "variance": 6
+    },
+    {
+      "year": 1935,
+      "month": 11,
+      "variance": 4
+    },
+    {
+      "year": 1935,
+      "month": 12,
+      "variance": 7
+    },
+    {
+      "year": 1936,
+      "month": 1,
+      "variance": 11
+    },
+    {
+      "year": 1936,
+      "month": 2,
+      "variance": 10
+    },
+    {
+      "year": 1936,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1936,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1936,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1936,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1936,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1936,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1936,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1936,
+      "month": 10,
+      "variance": 1
+    },
+    {
+      "year": 1936,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1936,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1937,
+      "month": 1,
+      "variance": 7
+    },
+    {
+      "year": 1937,
+      "month": 2,
+      "variance": 1
+    },
+    {
+      "year": 1937,
+      "month": 3,
+      "variance": 3
+    },
+    {
+      "year": 1937,
+      "month": 4,
+      "variance": 3
+    },
+    {
+      "year": 1937,
+      "month": 5,
+      "variance": 3
+    },
+    {
+      "year": 1937,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1937,
+      "month": 7,
+      "variance": 3
+    },
+    {
+      "year": 1937,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1937,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1937,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1937,
+      "month": 11,
+      "variance": 4
+    },
+    {
+      "year": 1937,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1939,
+      "month": 1,
+      "variance": 9
+    },
+    {
+      "year": 1939,
+      "month": 2,
+      "variance": 9
+    },
+    {
+      "year": 1939,
+      "month": 3,
+      "variance": 14
+    },
+    {
+      "year": 1939,
+      "month": 4,
+      "variance": 8
+    },
+    {
+      "year": 1939,
+      "month": 5,
+      "variance": 10
+    },
+    {
+      "year": 1939,
+      "month": 6,
+      "variance": 13
+    },
+    {
+      "year": 1939,
+      "month": 7,
+      "variance": 9
+    },
+    {
+      "year": 1939,
+      "month": 8,
+      "variance": 20
+    },
+    {
+      "year": 1939,
+      "month": 9,
+      "variance": 7
+    },
+    {
+      "year": 1939,
+      "month": 10,
+      "variance": 9
+    },
+    {
+      "year": 1939,
+      "month": 11,
+      "variance": 64
+    },
+    {
+      "year": 1939,
+      "month": 12,
+      "variance": 15
+    },
+    {
+      "year": 1940,
+      "month": 1,
+      "variance": 114
+    },
+    {
+      "year": 1940,
+      "month": 2,
+      "variance": 62
+    },
+    {
+      "year": 1940,
+      "month": 3,
+      "variance": 12
+    },
+    {
+      "year": 1940,
+      "month": 4,
+      "variance": 12
+    },
+    {
+      "year": 1940,
+      "month": 5,
+      "variance": 6
+    },
+    {
+      "year": 1940,
+      "month": 6,
+      "variance": 7
+    },
+    {
+      "year": 1940,
+      "month": 7,
+      "variance": 6
+    },
+    {
+      "year": 1940,
+      "month": 8,
+      "variance": 4
+    },
+    {
+      "year": 1940,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1940,
+      "month": 10,
+      "variance": 8
+    },
+    {
+      "year": 1940,
+      "month": 11,
+      "variance": 5
+    },
+    {
+      "year": 1940,
+      "month": 12,
+      "variance": 4
+    },
+    {
+      "year": 1943,
+      "month": 1,
+      "variance": 80
+    },
+    {
+      "year": 1943,
+      "month": 2,
+      "variance": 33
+    },
+    {
+      "year": 1943,
+      "month": 3,
+      "variance": 35
+    },
+    {
+      "year": 1943,
+      "month": 4,
+      "variance": 47
+    },
+    {
+      "year": 1943,
+      "month": 5,
+      "variance": 16
+    },
+    {
+      "year": 1943,
+      "month": 6,
+      "variance": 14
+    },
+    {
+      "year": 1943,
+      "month": 7,
+      "variance": 15
+    },
+    {
+      "year": 1943,
+      "month": 8,
+      "variance": 17
+    },
+    {
+      "year": 1943,
+      "month": 9,
+      "variance": 74
+    },
+    {
+      "year": 1943,
+      "month": 10,
+      "variance": 18
+    },
+    {
+      "year": 1943,
+      "month": 11,
+      "variance": 15
+    },
+    {
+      "year": 1943,
+      "month": 12,
+      "variance": 6
+    },
+    {
+      "year": 1944,
+      "month": 1,
+      "variance": 558
+    },
+    {
+      "year": 1944,
+      "month": 2,
+      "variance": 791
+    },
+    {
+      "year": 1944,
+      "month": 3,
+      "variance": 797
+    },
+    {
+      "year": 1944,
+      "month": 4,
+      "variance": 805
+    },
+    {
+      "year": 1944,
+      "month": 5,
+      "variance": 777
+    },
+    {
+      "year": 1944,
+      "month": 6,
+      "variance": 396
+    },
+    {
+      "year": 1944,
+      "month": 7,
+      "variance": 45
+    },
+    {
+      "year": 1944,
+      "month": 8,
+      "variance": 5
+    },
+    {
+      "year": 1944,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1944,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1944,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1944,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 1,
+      "variance": 2
+    },
+    {
+      "year": 1945,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1945,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1946,
+      "month": 1,
+      "variance": 21
+    },
+    {
+      "year": 1946,
+      "month": 2,
+      "variance": 10
+    },
+    {
+      "year": 1946,
+      "month": 3,
+      "variance": 9
+    },
+    {
+      "year": 1946,
+      "month": 4,
+      "variance": 1
+    },
+    {
+      "year": 1946,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1946,
+      "month": 6,
+      "variance": 7
+    },
+    {
+      "year": 1946,
+      "month": 7,
+      "variance": 8
+    },
+    {
+      "year": 1946,
+      "month": 8,
+      "variance": 15
+    },
+    {
+      "year": 1946,
+      "month": 9,
+      "variance": 330
+    },
+    {
+      "year": 1946,
+      "month": 10,
+      "variance": 17
+    },
+    {
+      "year": 1946,
+      "month": 11,
+      "variance": 91
+    },
+    {
+      "year": 1946,
+      "month": 12,
+      "variance": 8
+    },
+    {
+      "year": 1947,
+      "month": 1,
+      "variance": 5
+    },
+    {
+      "year": 1947,
+      "month": 2,
+      "variance": 5
+    },
+    {
+      "year": 1947,
+      "month": 3,
+      "variance": 3
+    },
+    {
+      "year": 1947,
+      "month": 4,
+      "variance": 3
+    },
+    {
+      "year": 1947,
+      "month": 5,
+      "variance": 3
+    },
+    {
+      "year": 1947,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1947,
+      "month": 7,
+      "variance": 39
+    },
+    {
+      "year": 1947,
+      "month": 8,
+      "variance": 36
+    },
+    {
+      "year": 1947,
+      "month": 9,
+      "variance": 12
+    },
+    {
+      "year": 1947,
+      "month": 10,
+      "variance": 7
+    },
+    {
+      "year": 1947,
+      "month": 11,
+      "variance": 9
+    },
+    {
+      "year": 1947,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1948,
+      "month": 1,
+      "variance": 11
+    },
+    {
+      "year": 1948,
+      "month": 2,
+      "variance": 8
+    },
+    {
+      "year": 1948,
+      "month": 3,
+      "variance": 10
+    },
+    {
+      "year": 1948,
+      "month": 4,
+      "variance": 5
+    },
+    {
+      "year": 1948,
+      "month": 5,
+      "variance": 13
+    },
+    {
+      "year": 1948,
+      "month": 6,
+      "variance": 3
+    },
+    {
+      "year": 1948,
+      "month": 7,
+      "variance": 4
+    },
+    {
+      "year": 1948,
+      "month": 8,
+      "variance": 7
+    },
+    {
+      "year": 1948,
+      "month": 9,
+      "variance": 67
+    },
+    {
+      "year": 1948,
+      "month": 10,
+      "variance": 5
+    },
+    {
+      "year": 1948,
+      "month": 11,
+      "variance": 42
+    },
+    {
+      "year": 1948,
+      "month": 12,
+      "variance": 11
+    },
+    {
+      "year": 1949,
+      "month": 1,
+      "variance": 48
+    },
+    {
+      "year": 1949,
+      "month": 2,
+      "variance": 22
+    },
+    {
+      "year": 1949,
+      "month": 3,
+      "variance": 23
+    },
+    {
+      "year": 1949,
+      "month": 4,
+      "variance": 25
+    },
+    {
+      "year": 1949,
+      "month": 5,
+      "variance": 12
+    },
+    {
+      "year": 1949,
+      "month": 6,
+      "variance": 48
+    },
+    {
+      "year": 1949,
+      "month": 7,
+      "variance": 178
+    },
+    {
+      "year": 1949,
+      "month": 8,
+      "variance": 142
+    },
+    {
+      "year": 1949,
+      "month": 9,
+      "variance": 91
+    },
+    {
+      "year": 1949,
+      "month": 10,
+      "variance": 181
+    },
+    {
+      "year": 1949,
+      "month": 11,
+      "variance": 144
+    },
+    {
+      "year": 1949,
+      "month": 12,
+      "variance": 82
+    },
+    {
+      "year": 1950,
+      "month": 1,
+      "variance": 12
+    },
+    {
+      "year": 1950,
+      "month": 2,
+      "variance": 5
+    },
+    {
+      "year": 1950,
+      "month": 3,
+      "variance": 4
+    },
+    {
+      "year": 1950,
+      "month": 4,
+      "variance": 3
+    },
+    {
+      "year": 1950,
+      "month": 5,
+      "variance": 4
+    },
+    {
+      "year": 1950,
+      "month": 6,
+      "variance": 7
+    },
+    {
+      "year": 1950,
+      "month": 7,
+      "variance": 41
+    },
+    {
+      "year": 1950,
+      "month": 8,
+      "variance": 28
+    },
+    {
+      "year": 1950,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1950,
+      "month": 10,
+      "variance": 7
+    },
+    {
+      "year": 1950,
+      "month": 11,
+      "variance": 6
+    },
+    {
+      "year": 1950,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1951,
+      "month": 1,
+      "variance": 12
+    },
+    {
+      "year": 1951,
+      "month": 2,
+      "variance": 10
+    },
+    {
+      "year": 1951,
+      "month": 3,
+      "variance": 6
+    },
+    {
+      "year": 1951,
+      "month": 4,
+      "variance": 9
+    },
+    {
+      "year": 1951,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1951,
+      "month": 6,
+      "variance": 11
+    },
+    {
+      "year": 1951,
+      "month": 7,
+      "variance": 68
+    },
+    {
+      "year": 1951,
+      "month": 8,
+      "variance": 71
+    },
+    {
+      "year": 1951,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1951,
+      "month": 10,
+      "variance": 39
+    },
+    {
+      "year": 1951,
+      "month": 11,
+      "variance": 5
+    },
+    {
+      "year": 1951,
+      "month": 12,
+      "variance": 5
+    },
+    {
+      "year": 1952,
+      "month": 1,
+      "variance": 81
+    },
+    {
+      "year": 1952,
+      "month": 2,
+      "variance": 27
+    },
+    {
+      "year": 1952,
+      "month": 3,
+      "variance": 22
+    },
+    {
+      "year": 1952,
+      "month": 4,
+      "variance": 25
+    },
+    {
+      "year": 1952,
+      "month": 5,
+      "variance": 7
+    },
+    {
+      "year": 1952,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1952,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1952,
+      "month": 8,
+      "variance": 172
+    },
+    {
+      "year": 1952,
+      "month": 9,
+      "variance": 62
+    },
+    {
+      "year": 1952,
+      "month": 10,
+      "variance": 177
+    },
+    {
+      "year": 1952,
+      "month": 11,
+      "variance": 102
+    },
+    {
+      "year": 1952,
+      "month": 12,
+      "variance": 63
+    },
+    {
+      "year": 1956,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1956,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1956,
+      "month": 3,
+      "variance": 12
+    },
+    {
+      "year": 1956,
+      "month": 4,
+      "variance": 11
+    },
+    {
+      "year": 1956,
+      "month": 5,
+      "variance": 3
+    },
+    {
+      "year": 1956,
+      "month": 6,
+      "variance": 7
+    },
+    {
+      "year": 1956,
+      "month": 7,
+      "variance": 7
+    },
+    {
+      "year": 1956,
+      "month": 8,
+      "variance": 18
+    },
+    {
+      "year": 1956,
+      "month": 9,
+      "variance": 33
+    },
+    {
+      "year": 1956,
+      "month": 10,
+      "variance": 49
+    },
+    {
+      "year": 1956,
+      "month": 11,
+      "variance": 71
+    },
+    {
+      "year": 1956,
+      "month": 12,
+      "variance": 47
+    },
+    {
+      "year": 1959,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1959,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1959,
+      "month": 3,
+      "variance": 6
+    },
+    {
+      "year": 1959,
+      "month": 4,
+      "variance": 3
+    },
+    {
+      "year": 1959,
+      "month": 5,
+      "variance": 1
+    },
+    {
+      "year": 1959,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1959,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1959,
+      "month": 8,
+      "variance": 6
+    },
+    {
+      "year": 1959,
+      "month": 9,
+      "variance": 3
+    },
+    {
+      "year": 1959,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1959,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1959,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1960,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 3,
+      "variance": 2
+    },
+    {
+      "year": 1960,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1960,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1960,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1960,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 5,
+      "variance": 2
+    },
+    {
+      "year": 1961,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1961,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1961,
+      "month": 12,
+      "variance": 3
+    },
+    {
+      "year": 1964,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1964,
+      "month": 8,
+      "variance": 268
+    },
+    {
+      "year": 1964,
+      "month": 9,
+      "variance": 231
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "variance": 191
+    },
+    {
+      "year": 1964,
+      "month": 11,
+      "variance": 200
+    },
+    {
+      "year": 1964,
+      "month": 12,
+      "variance": 64
+    },
+    {
+      "year": 1966,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1966,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1966,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1966,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1966,
+      "month": 5,
+      "variance": 6
+    },
+    {
+      "year": 1966,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1966,
+      "month": 7,
+      "variance": 5
+    },
+    {
+      "year": 1966,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1966,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1966,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1966,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1966,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1967,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1967,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1967,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1967,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1967,
+      "month": 5,
+      "variance": 6
+    },
+    {
+      "year": 1967,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1967,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1967,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1967,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1967,
+      "month": 10,
+      "variance": 6
+    },
+    {
+      "year": 1967,
+      "month": 11,
+      "variance": 11
+    },
+    {
+      "year": 1967,
+      "month": 12,
+      "variance": 2
+    },
+    {
+      "year": 1968,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1968,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1968,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1968,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1968,
+      "month": 5,
+      "variance": 5
+    },
+    {
+      "year": 1968,
+      "month": 6,
+      "variance": 2
+    },
+    {
+      "year": 1968,
+      "month": 7,
+      "variance": 3
+    },
+    {
+      "year": 1968,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1968,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1968,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1968,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1968,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1969,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1969,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1969,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1969,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1969,
+      "month": 5,
+      "variance": 30
+    },
+    {
+      "year": 1969,
+      "month": 6,
+      "variance": 32
+    },
+    {
+      "year": 1969,
+      "month": 7,
+      "variance": 25
+    },
+    {
+      "year": 1969,
+      "month": 8,
+      "variance": 21
+    },
+    {
+      "year": 1969,
+      "month": 9,
+      "variance": 13
+    },
+    {
+      "year": 1969,
+      "month": 10,
+      "variance": 15
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "variance": 19
+    },
+    {
+      "year": 1969,
+      "month": 12,
+      "variance": 12
+    },
+    {
+      "year": 1970,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1970,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1970,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1970,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1970,
+      "month": 5,
+      "variance": 38
+    },
+    {
+      "year": 1970,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1970,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1970,
+      "month": 8,
+      "variance": 4
+    },
+    {
+      "year": 1970,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1970,
+      "month": 10,
+      "variance": 1
+    },
+    {
+      "year": 1970,
+      "month": 11,
+      "variance": 2
+    },
+    {
+      "year": 1970,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1972,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1972,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1972,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1972,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1972,
+      "month": 5,
+      "variance": 109
+    },
+    {
+      "year": 1972,
+      "month": 6,
+      "variance": 94
+    },
+    {
+      "year": 1972,
+      "month": 7,
+      "variance": 71
+    },
+    {
+      "year": 1972,
+      "month": 8,
+      "variance": 56
+    },
+    {
+      "year": 1972,
+      "month": 9,
+      "variance": 21
+    },
+    {
+      "year": 1972,
+      "month": 10,
+      "variance": 10
+    },
+    {
+      "year": 1972,
+      "month": 11,
+      "variance": 28
+    },
+    {
+      "year": 1972,
+      "month": 12,
+      "variance": 6
+    },
+    {
+      "year": 1973,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1973,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1973,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1973,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1973,
+      "month": 5,
+      "variance": 75
+    },
+    {
+      "year": 1973,
+      "month": 6,
+      "variance": 58
+    },
+    {
+      "year": 1973,
+      "month": 7,
+      "variance": 63
+    },
+    {
+      "year": 1973,
+      "month": 8,
+      "variance": 60
+    },
+    {
+      "year": 1973,
+      "month": 9,
+      "variance": 6
+    },
+    {
+      "year": 1973,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1973,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1973,
+      "month": 12,
+      "variance": 4
+    },
+    {
+      "year": 1974,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 5,
+      "variance": 3
+    },
+    {
+      "year": 1974,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1974,
+      "month": 9,
+      "variance": 1
+    },
+    {
+      "year": 1974,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1974,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1975,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1975,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1975,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1975,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1975,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1975,
+      "month": 6,
+      "variance": 47
+    },
+    {
+      "year": 1975,
+      "month": 7,
+      "variance": 38
+    },
+    {
+      "year": 1975,
+      "month": 8,
+      "variance": 25
+    },
+    {
+      "year": 1975,
+      "month": 9,
+      "variance": 30
+    },
+    {
+      "year": 1975,
+      "month": 10,
+      "variance": 32
+    },
+    {
+      "year": 1975,
+      "month": 11,
+      "variance": 68
+    },
+    {
+      "year": 1975,
+      "month": 12,
+      "variance": 30
+    },
+    {
+      "year": 1976,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1976,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1976,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1976,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1976,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1976,
+      "month": 6,
+      "variance": 17
+    },
+    {
+      "year": 1976,
+      "month": 7,
+      "variance": 8
+    },
+    {
+      "year": 1976,
+      "month": 8,
+      "variance": 9
+    },
+    {
+      "year": 1976,
+      "month": 9,
+      "variance": 17
+    },
+    {
+      "year": 1976,
+      "month": 10,
+      "variance": 51
+    },
+    {
+      "year": 1976,
+      "month": 11,
+      "variance": 99
+    },
+    {
+      "year": 1976,
+      "month": 12,
+      "variance": 58
+    },
+    {
+      "year": 1977,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1977,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1977,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1977,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1977,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1977,
+      "month": 6,
+      "variance": 30
+    },
+    {
+      "year": 1977,
+      "month": 7,
+      "variance": 11
+    },
+    {
+      "year": 1977,
+      "month": 8,
+      "variance": 10
+    },
+    {
+      "year": 1977,
+      "month": 9,
+      "variance": 17
+    },
+    {
+      "year": 1977,
+      "month": 10,
+      "variance": 27
+    },
+    {
+      "year": 1977,
+      "month": 11,
+      "variance": 61
+    },
+    {
+      "year": 1977,
+      "month": 12,
+      "variance": 39
+    },
+    {
+      "year": 1978,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1978,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1978,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1978,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1978,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1978,
+      "month": 6,
+      "variance": 206
+    },
+    {
+      "year": 1978,
+      "month": 7,
+      "variance": 64
+    },
+    {
+      "year": 1978,
+      "month": 8,
+      "variance": 29
+    },
+    {
+      "year": 1978,
+      "month": 9,
+      "variance": 27
+    },
+    {
+      "year": 1978,
+      "month": 10,
+      "variance": 99
+    },
+    {
+      "year": 1978,
+      "month": 11,
+      "variance": 134
+    },
+    {
+      "year": 1978,
+      "month": 12,
+      "variance": 84
+    },
+    {
+      "year": 1980,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1980,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1980,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1980,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1980,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1980,
+      "month": 6,
+      "variance": 21
+    },
+    {
+      "year": 1980,
+      "month": 7,
+      "variance": 32
+    },
+    {
+      "year": 1980,
+      "month": 8,
+      "variance": 52
+    },
+    {
+      "year": 1980,
+      "month": 9,
+      "variance": 5
+    },
+    {
+      "year": 1980,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1980,
+      "month": 11,
+      "variance": 8
+    },
+    {
+      "year": 1980,
+      "month": 12,
+      "variance": 4
+    },
+    {
+      "year": 1981,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1981,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1981,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1981,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1981,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1981,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1981,
+      "month": 7,
+      "variance": 66
+    },
+    {
+      "year": 1981,
+      "month": 8,
+      "variance": 2
+    },
+    {
+      "year": 1981,
+      "month": 9,
+      "variance": 4
+    },
+    {
+      "year": 1981,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1981,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1981,
+      "month": 12,
+      "variance": 6
+    },
+    {
+      "year": 1982,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1982,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 9,
+      "variance": 3
+    },
+    {
+      "year": 1982,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1982,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1982,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 7,
+      "variance": 2
+    },
+    {
+      "year": 1984,
+      "month": 8,
+      "variance": 3
+    },
+    {
+      "year": 1984,
+      "month": 9,
+      "variance": 4
+    },
+    {
+      "year": 1984,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1984,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1984,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1985,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 8,
+      "variance": 5
+    },
+    {
+      "year": 1985,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1985,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1985,
+      "month": 12,
+      "variance": 1
+    },
+    {
+      "year": 1986,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1986,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1986,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1986,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1986,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1986,
+      "month": 6,
+      "variance": 7
+    },
+    {
+      "year": 1986,
+      "month": 7,
+      "variance": 5
+    },
+    {
+      "year": 1986,
+      "month": 8,
+      "variance": 8
+    },
+    {
+      "year": 1986,
+      "month": 9,
+      "variance": 2
+    },
+    {
+      "year": 1986,
+      "month": 10,
+      "variance": 0
+    },
+    {
+      "year": 1986,
+      "month": 11,
+      "variance": 7
+    },
+    {
+      "year": 1986,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 6,
+      "variance": 1
+    },
+    {
+      "year": 1987,
+      "month": 7,
+      "variance": 3
+    },
+    {
+      "year": 1987,
+      "month": 8,
+      "variance": 1
+    },
+    {
+      "year": 1987,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 10,
+      "variance": 6
+    },
+    {
+      "year": 1987,
+      "month": 11,
+      "variance": 0
+    },
+    {
+      "year": 1987,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1988,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1988,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1988,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1988,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1988,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1988,
+      "month": 6,
+      "variance": 11
+    },
+    {
+      "year": 1988,
+      "month": 7,
+      "variance": 7
+    },
+    {
+      "year": 1988,
+      "month": 8,
+      "variance": 12
+    },
+    {
+      "year": 1988,
+      "month": 9,
+      "variance": 16
+    },
+    {
+      "year": 1988,
+      "month": 10,
+      "variance": 32
+    },
+    {
+      "year": 1988,
+      "month": 11,
+      "variance": 51
+    },
+    {
+      "year": 1988,
+      "month": 12,
+      "variance": 9
+    },
+    {
+      "year": 1989,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1989,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1989,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1989,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1990,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1990,
+      "month": 11,
+      "variance": 3
+    },
+    {
+      "year": 1990,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1991,
+      "month": 10,
+      "variance": 27
+    },
+    {
+      "year": 1991,
+      "month": 11,
+      "variance": 48
+    },
+    {
+      "year": 1991,
+      "month": 12,
+      "variance": 10
+    },
+    {
+      "year": 1992,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1992,
+      "month": 10,
+      "variance": 3
+    },
+    {
+      "year": 1992,
+      "month": 11,
+      "variance": 1
+    },
+    {
+      "year": 1992,
+      "month": 12,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1993,
+      "month": 10,
+      "variance": 2
+    },
+    {
+      "year": 1993,
+      "month": 11,
+      "variance": 12
+    },
+    {
+      "year": 1993,
+      "month": 12,
+      "variance": 13
+    },
+    {
+      "year": 1994,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1994,
+      "month": 10,
+      "variance": 4
+    },
+    {
+      "year": 1994,
+      "month": 11,
+      "variance": 7
+    },
+    {
+      "year": 1994,
+      "month": 12,
+      "variance": 3
+    },
+    {
+      "year": 1995,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1995,
+      "month": 10,
+      "variance": 107
+    },
+    {
+      "year": 1995,
+      "month": 11,
+      "variance": 240
+    },
+    {
+      "year": 1995,
+      "month": 12,
+      "variance": 18
+    },
+    {
+      "year": 1996,
+      "month": 1,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 2,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 3,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 4,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 5,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 6,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 7,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 8,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 9,
+      "variance": 0
+    },
+    {
+      "year": 1996,
+      "month": 10,
+      "variance": 68
+    },
+    {
+      "year": 1996,
+      "month": 11,
+      "variance": 428
+    },
+    {
+      "year": 1996,
+      "month": 12,
+      "variance": 16
+    }
+ ]
+}
