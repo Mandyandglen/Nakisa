@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>HR Data Quality - BIT</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
+    crossorigin="anonymous">
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    </head>
+<body>
+        <div id="page1">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="index.html">Home</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                  
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                      <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                          <a class="nav-link" href="/page2">Error Variance </a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="/page3">  DQ 2017 / 2018  </a>
+                        </li>
+            
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/page4">  Focus Areas </a>
+                    </li>
+                     
+                        
+                                  </ul>
+                      </div>
+                  </nav>
+                  <div class="container">
+                    <h3>HR Master Data Quality Progress</h3>
+                    <p>  </p>            
+                    <table class="table table-hover">
+                      <thead>
+                        <tr>
+                          <th>Description</th>
+                          <th>{{m.previous}}</th>
+                          <th>{{m.current}}</th>
+                          <th>Status</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>Number of Automated Audits Completed</td>
+                          <td>{{m.prevaudit}}</td>
+                          <td>{{m.audits}}</td>
+                          <td> <a href="{{m.gstatus}}/"><img src="{{m.gstatus}}" class="img-thumbnail" alt="status"><a>
+                        </td>
+                        </tr>
+                        <tr>
+                          <td>Number of Data Data Quality Rules</td>
+                          <td>{{m.rulesp}}</td>
+                          <td>{{m.rules}}</td>
+                          <td> <a href="{{m.gstatus}}/"><img src="{{m.gstatus}}" class="img-thumbnail" alt="status"><a>
+                        </tr>
+                        <tr>
+                          <td>Number of Data Elements Checked</td>
+                          <td>{{m.checkedp}}</td>
+                          <td>{{m.checked}}</td>
+                          <td> <a href="{{m.gstatus}}/"><img src="{{m.gstatus}}" class="img-thumbnail" alt="status"><a>
+                        </tr>
+                        <tr>
+                            <td>Data quality metrics with 0 errors</td>
+                            <td>{{m.metricszero}}</td>
+                            <td>{{m.metrics10}}</td>
+                            <td> <a href="{{m.gstatus}}/"><img src="{{m.gstatus}}" class="img-thumbnail" alt="status"><a>
+                          </tr>
+                          
+                      </tbody>
+                    </table>
+                  </div> 
+                    
+                  
+                  
+              <!-- Footer -->
+<footer class="page-footer font-small blue pt-4">
+
+    <!-- Footer Links -->
+    <div class="container-fluid text-center text-md-left">
+
+      <!-- Grid row -->
+      <div class="row">
+
+        <!-- Grid column -->
+        <div class="col-md-6 mt-md-0 mt-3">
+
+          <!-- Content -->
+          <h5 class="text-uppercase">DQ Progress Program</h5>
+          <p>Additional links</p>
+
+        </div>
+        <!-- Grid column -->
+
+        <hr class="clearfix w-100 d-md-none pb-3">
+
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3">
+
+            <!-- Links -->
+            <h5 class="text-uppercase">Links</h5>
+
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://myHRLexie.com"><img src="https://i.postimg.cc/3wYPh47d/Data-_Quality-_Management-1_1.png"></a>
+              </li>
+              <li>
+                
+              </li>
+              
+                
+            </ul>
+
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-md-3 mb-md-0 mb-3">
+
+            <!-- Links -->
+            <h5 class="text-uppercase">Links</h5>
+
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://www.nakisa.com/orgaudit"><img src="https://i.postimg.cc/hvDPMVx3/images4.jpg.jpg"></a>
+              </li>
+             
+            </ul>
+
+          </div>
+          <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">Org Audit:
+      <a href="https:/ccc/"> orgaudit.com</a>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->    
+</body>
+</html>
